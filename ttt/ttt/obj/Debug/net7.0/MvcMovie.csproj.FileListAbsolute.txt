@@ -1,0 +1,8 @@
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.csproj.AssemblyReference.cache
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.AssemblyInfoInputs.cache
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.AssemblyInfo.cs
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.csproj.CoreCompileInputs.cache
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cache
+C:\Users\ACER NITRO\source\repos\ttt\ttt\obj\Debug\net7.0\MvcMovie.RazorAssemblyInfo.cs

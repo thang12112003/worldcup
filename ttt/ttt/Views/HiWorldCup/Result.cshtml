@@ -1,0 +1,30 @@
+﻿@{
+    ViewData["Title"] = "Result";
+}
+
+<div class="wrapper">
+
+    @if ((int)ViewData["matran"] == 1)
+    {
+        // /HIWorldCup/Result?doi1=4&doi2=2&matran=1;
+        <p>Mã trận : @ViewData["matran"]</p>
+        <img src="~/lib/nhat.png" alt="Girl in a jacket" width="100" height="50">
+        <span style="color:red; margin-right: 0px">@ViewData["doi1"] --</span>
+        <span style="color:red">@ViewData["doi2"]</span>
+        <img src="~/lib/taybannha.png" alt="Girl in a jacket" width="100" height="50">
+    }
+    else if ((int)ViewData["matran"] == 2)
+    {
+        <p>Mã trận : @ViewData["matran"]</p>
+        <img src="~/lib/costa.png" alt="Girl in a jacket" width="100" height="50">
+        <span style="color:red; margin-right: 0px">@ViewData["doi1"] --</span>
+        <span style="color:red">@ViewData["doi2"]</span>
+        <img src="~/lib/duc.png" alt="Girl in a jacket" width="100" height="50">
+    }
+    else
+    {
+        <h1>Not found 404</h1>
+
+    }
+
+</div>
